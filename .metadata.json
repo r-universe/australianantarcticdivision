@@ -1,9 +1,5 @@
 [
   {
-    "package": "angstroms",
-    "oncran": true
-  },
-  {
     "package": "bgmfiles",
     "oncran": true
   },
