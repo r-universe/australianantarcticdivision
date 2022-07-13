@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "angstroms"]
+	path = angstroms
+	url = https://github.com/australianantarcticdivision/angstroms
+	shallow = true
+	registered = true
 [submodule "bgmfiles"]
 	path = bgmfiles
 	url = https://github.com/australianantarcticdivision/bgmfiles
