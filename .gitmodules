@@ -1,30 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/australianantarcticdivision/universe
 	shallow = true
 	branch = HEAD
-[submodule "angstroms"]
-	path = angstroms
-	url = https://github.com/australianantarcticdivision/angstroms
-	shallow = true
-	registered = true
-[submodule "bgmfiles"]
-	path = bgmfiles
-	url = https://github.com/australianantarcticdivision/bgmfiles
-	shallow = true
-	registered = true
-[submodule "orsifronts"]
-	path = orsifronts
-	url = https://github.com/australianantarcticdivision/orsifronts
-	shallow = true
-	registered = true
 [submodule "palr"]
 	path = palr
-	url = https://github.com/australianantarcticdivision/palr
+	url = https://github.com/AustralianAntarcticDivision/palr
 	shallow = true
 	registered = true
 [submodule "rbgm"]
 	path = rbgm
-	url = https://github.com/australianantarcticdivision/rbgm
+	url = https://github.com/AustralianAntarcticDivision/rbgm
 	shallow = true
-	registered = true
+	registered = false

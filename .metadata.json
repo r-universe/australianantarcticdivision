@@ -1,22 +1,6 @@
 [
   {
-    "package": "angstroms",
-    "oncran": true
-  },
-  {
-    "package": "bgmfiles",
-    "oncran": true
-  },
-  {
-    "package": "orsifronts",
-    "oncran": true
-  },
-  {
     "package": "palr",
-    "oncran": true
-  },
-  {
-    "package": "rbgm",
     "oncran": true
   }
 ]
