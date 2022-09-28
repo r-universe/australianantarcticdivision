@@ -8,8 +8,3 @@
 	url = https://github.com/AustralianAntarcticDivision/palr
 	shallow = true
 	registered = true
-[submodule "rbgm"]
-	path = rbgm
-	url = https://github.com/AustralianAntarcticDivision/rbgm
-	shallow = true
-	registered = false
