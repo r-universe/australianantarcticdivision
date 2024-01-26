@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/australianantarcticdivision/universe
+	url = https://github.com/australianantarcticdivision/australianantarcticdivision.r-universe.dev
 	branch = HEAD
 [submodule "palr"]
 	path = palr
