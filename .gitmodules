@@ -2,6 +2,48 @@
 	path = .registry
 	url = https://github.com/australianantarcticdivision/australianantarcticdivision.r-universe.dev
 	branch = HEAD
+[submodule "BiomassTracking"]
+	path = BiomassTracking
+	url = https://github.com/AustralianAntarcticDivision/BiomassTracking
+[submodule "EPOC"]
+	path = EPOC
+	url = https://github.com/AustralianAntarcticDivision/EPOC
+[submodule "SOmap"]
+	path = SOmap
+	url = https://github.com/AustralianAntarcticDivision/SOmap
+[submodule "angstroms"]
+	path = angstroms
+	url = https://github.com/AustralianAntarcticDivision/angstroms
+[submodule "availability"]
+	path = availability
+	url = https://github.com/AustralianAntarcticDivision/availability
+[submodule "blueant"]
+	path = blueant
+	url = https://github.com/AustralianAntarcticDivision/blueant
+[submodule "cconvention"]
+	path = cconvention
+	url = https://github.com/AustralianAntarcticDivision/cconvention
+[submodule "fastrls"]
+	path = fastrls
+	url = https://github.com/AustralianAntarcticDivision/fastrls
+[submodule "measoshapes"]
+	path = measoshapes
+	url = https://github.com/AustralianAntarcticDivision/measoshapes
+[submodule "orsifronts"]
+	path = orsifronts
+	url = https://github.com/AustralianAntarcticDivision/orsifronts
 [submodule "palr"]
 	path = palr
 	url = https://github.com/AustralianAntarcticDivision/palr
+[submodule "raadfiles"]
+	path = raadfiles
+	url = https://github.com/AustralianAntarcticDivision/raadfiles
+[submodule "raadtools"]
+	path = raadtools
+	url = https://github.com/AustralianAntarcticDivision/raadtools
+[submodule "traipse"]
+	path = traipse
+	url = https://github.com/AustralianAntarcticDivision/traipse
+[submodule "xyt"]
+	path = xyt
+	url = https://github.com/AustralianAntarcticDivision/xyt
